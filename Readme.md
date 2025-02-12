@@ -21,7 +21,7 @@ This project is a frontend clone of the popular music streaming service Spotify.
 
 2. Navigate to the cloned directory:
     ```
-    cd Spotify-Clone
+    cd spotify-clonne
     ```
 
 3. Open the `index.html` file in your web browser.
