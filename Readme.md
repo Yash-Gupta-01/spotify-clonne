@@ -16,7 +16,7 @@ This project is a frontend clone of the popular music streaming service Spotify.
 
 1. Clone the repository using the following command:
     ```
-    git clone https://github.com/Gandhiprajwal/Spotify-Clone.git
+    git clone https://github.com/Yash-Gupta-01/spotify-clonne.git
     ```
 
 2. Navigate to the cloned directory:
